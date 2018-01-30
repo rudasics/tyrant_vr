@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/scenes/VR_Inital_Setup.unity
+- path: Assets/scenes/anim_test.unity
   isLoaded: 1
   isActive: 1
